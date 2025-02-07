@@ -1,5 +1,116 @@
-{% extends "base.jinja" %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="light dark" />
+    <title>Preview • Pico CSS</title>
+    <meta name="description" content="A pure HTML example, without dependencies." />
 
-{% block main %}
-<h2>Do fish need water?</h2>
-{% endblock %}
+    <!-- Pico.css -->
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/@picocss/pico@2.0.6/css/pico.min.css"
+    />
+    <style>
+    .friday-gradient {
+      padding-bottom: 6px;
+      background: rgb(65, 134, 91);
+      background: linear-gradient(90deg, rgba(252,176,69,1) 0%, rgba(253,29,29,1) 100%, rgba(131,58,180,1) 100%);
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+      display: inline-block;
+    }
+
+    .saturday-gradient {
+      padding-bottom: 6px;
+      background: rgb(65, 134, 91);
+      background: linear-gradient(90deg, rgb(252, 110, 49) 0%, rgb(174, 48, 127) 100%);
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+      display: inline-block;
+    }
+
+    .sunday-gradient {
+      padding-bottom: 6px;
+      background: rgb(65, 134, 91);
+      background: linear-gradient(90deg, rgba(253,29,29,1) 0%, rgba(131,58,180,1) 100%);
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+      display: inline-block;
+    }    
+    </style>
+  </head>
+
+  <body>
+    <!-- Header -->
+    <header class="container">
+      <hgroup>
+        <h1>GACKcon 2025 Schedule</h1>
+        <p>Last updated 2025-02-07. Subject to change.</p>
+      </hgroup>
+    </header>
+    <!-- ./ Header -->
+
+    <!-- Main -->
+    <main class="container">
+
+
+      <section>
+        <h2 class="friday-gradient">Friday</h2>
+        {% for p in schedule_data.friday%}
+            <article id="article">
+                <h3>{{ p.panel_name }}</h3>
+                <p>{{ p.description }}</p>
+                <footer>
+                    <small>{{ p.time }} - Hosted by {{ p.hosted_by }}</small>
+                </footer>
+            </article>
+        {% endfor %}
+      </section>
+
+
+      <section>
+        <h2 class="saturday-gradient">Saturday</h2>
+        {% for p in schedule_data.saturday%}
+            <article id="article">
+                <h3>{{ p.panel_name }}</h3>
+                <p>{{ p.description }}</p>
+                <footer>
+                    <small>{{ p.time }} - Hosted by {{ p.hosted_by }}</small>
+                </footer>
+            </article>
+        {% endfor %}
+      </section>
+
+        <section>
+        <h3 class="sunday-gradient">Sunday</h3>
+        {% for p in schedule_data.sunday%}
+            <article id="article">
+                <h2>{{ p.panel_name }}</h2>
+                <p>{{ p.description }}</p>
+                <footer>
+                    <small>{{ p.time }} - Hosted by {{ p.hosted_by }}</small>
+                </footer>
+            </article>
+        {% endfor %}
+      </section>
+
+
+    </main>
+    <!-- ./ Main -->
+
+    <!-- Footer -->
+    <footer class="container">
+      <small
+        >Built by Carl •
+        <a href="https://github.com/cbahn/gackcon-schedule"
+          >Source code</a
+        ></small>
+    </footer>
+    <!-- ./ Footer -->
+  </body>
+</html>

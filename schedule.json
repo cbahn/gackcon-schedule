@@ -1,7 +1,7 @@
 {
     "friday": [
         {
-            "panel_name": "Panel Name: Opening Shots",
+            "panel_name": "Opening Shots",
             "time": "12:00 pm \\- 12:30 pm",
             "floor": "1",
             "location": "Taj Ma\u2019Jeff",
@@ -123,7 +123,7 @@
     ],
     "saturday": [
         {
-            "panel_name": "Panel Name: 4th Annual Egg-Off\\!",
+            "panel_name": "4th Annual Egg-Off\\!",
             "time": "11:00 am \\- 12:00 am",
             "floor": "1",
             "location": "Kitchen",
@@ -255,7 +255,7 @@
     ],
     "sunday": [
         {
-            "panel_name": "Panel Name: Tier Maker Court",
+            "panel_name": "Tier Maker Court",
             "time": "1:00 pm \\- 2:00 pm",
             "floor": "3",
             "location": "Delta Sky Lounge",

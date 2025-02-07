@@ -1,0 +1,322 @@
+{
+    "friday": [
+        {
+            "panel_name": "Panel Name: Opening Shots",
+            "time": "12:00 pm \\- 12:30 pm",
+            "floor": "1",
+            "location": "Taj Ma\u2019Jeff",
+            "hosted_by": "GACK",
+            "description": "Jumpstart three days of nerdy partying with a rousing toast and a celebratory shot\\!"
+        },
+        {
+            "panel_name": "A Dive through Daily Games",
+            "time": "12:30 pm \\- 1:00 pm",
+            "floor": "1",
+            "location": "Taj Ma\u2019Jeff",
+            "hosted_by": "Kat",
+            "description": "Ever since Wordle came out in 2021, the daily game genre has exploded. They come in every theme from video games to cinema to sports. Let's play through some together\\!"
+        },
+        {
+            "panel_name": "Jesse\u2019s Kindergarten Korner",
+            "time": "1:00 pm \\- 1:30 pm",
+            "floor": "1",
+            "location": "Taj Ma\u2019Jeff",
+            "hosted_by": "Jesse",
+            "description": "As a father, I've found that children's books offer some very fun and important life lessons that are just as impactful to children as well as adults.  I'll go over a few of my favorites as well as do some live readings so you can pretend you're back in your favorite kindergarten class."
+        },
+        {
+            "panel_name": "Valentine\u2019s Day Exchange",
+            "time": "1:30 pm \\- 2:30 pm",
+            "floor": "2",
+            "location": "Hudsonham Palace",
+            "hosted_by": "Tim and Rob",
+            "description": "Recapture the feeling of being a dumb child on Valentine's Day. Bring a mailbox, valentine cards, or snacks to hand out or come join us in crafting some for the weekend\\!"
+        },
+        {
+            "panel_name": "Keep Talking and Nobody Bricksplodes",
+            "time": "2:30 pm \\- 3:30 pm",
+            "floor": "3",
+            "location": "Delta Sky Lounge",
+            "hosted_by": "Kat and Nexis",
+            "description": "One person has Lego directions, the other has the Blocks. Do they vibe? Or do they DIE?"
+        },
+        {
+            "panel_name": "Mini Painting 101",
+            "time": "3:30 pm \\- 4:00 pm",
+            "floor": "3",
+            "location": "Delta Sky Lounge",
+            "hosted_by": "Ariel",
+            "description": "Lecture on the basics of miniature painting techniques and things to keep in mind when beginning the hobby."
+        },
+        {
+            "panel_name": "BAMily Feud",
+            "time": "4:00 pm \\- 5:00 pm",
+            "floor": "3",
+            "location": "Delta Sky Lounge",
+            "hosted_by": "Nexis and Dan-a White",
+            "description": "The BAMily returns to answer more questions Family Feud style. No, Gengar is not a dark Pokemon."
+        },
+        {
+            "panel_name": "Tour de GACKcon",
+            "time": "6:00 pm \\- 6:30 pm",
+            "floor": "",
+            "location": "everywhere",
+            "hosted_by": "GACK",
+            "description": "Even if you have been to GACKcon before, there are new secrets to discover\\! The GACK members will be giving mini tours of each floor, pointing out things like where to get water and how to participate in different games and challenges around the house. Tour at your own pace."
+        },
+        {
+            "panel_name": "Kingdom Hearts Explained in 20 Minutes",
+            "time": "6:30 pm \\- 7:00 pm",
+            "floor": "3",
+            "location": "Delta Sky Lounge",
+            "hosted_by": "Nexis",
+            "description": "Kingdom Hearts is notorious for having a complicated story. I replayed all of the Kingdom Hearts games this year and I'll explain the series in 20 minutes."
+        },
+        {
+            "panel_name": "3e and 43: the Bush Years",
+            "time": "7:00 pm \\- 7:30 pm",
+            "floor": "3",
+            "location": "Delta Sky Lounge",
+            "hosted_by": "Jason and Rob",
+            "description": "Join us as we delve into the Bushes, on a nostalgic tour of the cultural wasteland that was 2000-2008. All through the lens of D\\&D Edition 3\\."
+        },
+        {
+            "panel_name": "Horror Movie Tier Maker 2024 Edition",
+            "time": "7:30 pm \\- 8:30 pm",
+            "floor": "3",
+            "location": "Delta Sky Lounge",
+            "hosted_by": "Nexis, Louis, and Allie",
+            "description": "We watched all the new horror movies so you don't have to. We will avoid spoilers if requested. We will put them on a tier list for you to judge."
+        },
+        {
+            "panel_name": "Bar Pretender 2: A False Potion",
+            "time": "8:30 pm \\- 10:00 pm",
+            "floor": "1",
+            "location": "Taj Ma\u2019Jeff",
+            "hosted_by": "Jason",
+            "description": "Adventurers often rely on alchemical concoctions to bail them out of trouble. They usually go to the Mage's Guild, but travelers on a budget may find themselves here instead. Amateur mixologists find themselves making brews from a dodgy recipe stolen off a guild wizard, and the adventurers (audience) rate the results\\!"
+        },
+        {
+            "panel_name": "Dr Magnethands",
+            "time": "10:00 pm \\- 11:00 pm",
+            "floor": "3",
+            "location": "Delta Sky Lounge",
+            "hosted_by": "Chris",
+            "description": "Can you stop Doctor Magnethands from destroying the earth with a radioactive rocket on Christmas Eve? Play the \\*premier\\* rules-light drinking ttrpg."
+        },
+        {
+            "panel_name": "RAVE",
+            "time": "11:00 pm \\- 1:00 am",
+            "floor": "1",
+            "location": "Taj Ma\u2019Jeff",
+            "hosted_by": "DJ Carl",
+            "description": "It\u2019s rave time."
+        },
+        {
+            "panel_name": "Hear Me Out cake",
+            "time": "11:00 pm \\- 12:00 am",
+            "floor": "3",
+            "location": "Delta Sky Lounge",
+            "hosted_by": "Kat",
+            "description": "Let's take turns sharing our questionable taste in a rousing game of Hear Me Out. Also, cake\\!"
+        }
+    ],
+    "saturday": [
+        {
+            "panel_name": "Panel Name: 4th Annual Egg-Off\\!",
+            "time": "11:00 am \\- 12:00 am",
+            "floor": "1",
+            "location": "Kitchen",
+            "hosted_by": "Carl",
+            "description": "Egg"
+        },
+        {
+            "panel_name": "The Coffee Challenge",
+            "time": "12:00 pm \\- 12:30 pm",
+            "floor": "3",
+            "location": "Delta Sky Lounge",
+            "hosted_by": "Nexis, Louis, Claire, Kat and a very helpful Emma",
+            "description": "We will finally decide on what type of coffee is the best. Traditional, instant, pour over, French press. Come join the panel of judges and have some coffee."
+        },
+        {
+            "panel_name": "Reality TV in 2024",
+            "time": "12:30 pm \\- 1:00 pm",
+            "floor": "3",
+            "location": "Delta Sky Lounge",
+            "hosted_by": "Kat",
+            "description": "Despite the thousands of existing reality shows they are still inventing new ones. Come learn about 16 brand new shows that came out in 2024 and what fun twists they have on the genre."
+        },
+        {
+            "panel_name": "Puzzle Setting 101",
+            "time": "1:00 pm \\- 2:00 pm",
+            "floor": "3",
+            "location": "Delta Sky Lounge",
+            "hosted_by": "Alexi",
+            "description": "Sudoku is just one of an entire family of visual logic puzzles. We'll look at examples of a few different types, discuss strategies for creating engaging puzzles, and do some puzzle setting\\!"
+        },
+        {
+            "panel_name": "Narrowing Down to the Ultimate 151 Pokemon",
+            "time": "2:00 pm \\- 3:00 pm",
+            "floor": "3",
+            "location": "Delta Sky Lounge",
+            "hosted_by": "Kat",
+            "description": "There are so many pokemon, there must be some good ones in every generation. During this panel we will narrow down the 1000+ pokemon into the perfect 151\\. Come let your voice and terrible opinions be heard."
+        },
+        {
+            "panel_name": "Learning to Pokemon ROM Hack \\- Play your Ultimate 151",
+            "time": "3:00 pm \\- 3:30 pm",
+            "floor": "3",
+            "location": "Delta Sky Lounge",
+            "hosted_by": "Grayson",
+            "description": "You've picked your ultimate 151, but what if you want to play it? Come on this wild 2 week journey of how I deep dived into building the website and learned how to ROM Hack."
+        },
+        {
+            "panel_name": "Lightning Talks",
+            "time": "3:30 pm \\- 4:30 pm",
+            "floor": "1",
+            "location": "Taj Ma\u2019Jeff",
+            "hosted_by": "Carl",
+            "description": "Back to back quick presentations about:",
+            "philips_sucks": "History of screwdrivers \\- Carl",
+            "250,000,000_bc": "the worst thing that's ever happened \\- Chris"
+        },
+        {
+            "panel_name": "AMV Contest",
+            "time": "4:30 pm \\- 5:00 pm",
+            "floor": "1",
+            "location": "Taj Ma\u2019Jeff",
+            "hosted_by": "Grayson",
+            "description": "Come watch the AMVs (Anime Music Videos) made by people at the convention and vote for your favorites\\!"
+        },
+        {
+            "panel_name": "Tieranee\u2019s Spelling Bee",
+            "time": "6:00 pm \\- 7:00 pm",
+            "floor": "1",
+            "location": "Taj Ma\u2019Jeff",
+            "hosted_by": "David, Tieranee, and James",
+            "description": "A totally-normal definitely-fair sorta fantasy-themed spelling bee."
+        },
+        {
+            "panel_name": "Um, GACKtually",
+            "time": "7:00 pm \\- 8:00 pm",
+            "floor": "3",
+            "location": "Delta Sky Lounge",
+            "hosted_by": "Kyle, Carly, and Claire",
+            "description": "From Liches to Witches, nerds like a lot of things, but there's something they love above all else: correcting people\\! This is Um, GACKtually, a game of nerdy corrections. We'll have a series of incorrect statements based on the nerd things you love, you just have to buzz in and correct us. Based on Dropout's hit game show Um, Actually."
+        },
+        {
+            "panel_name": "A Dungeons and Dragons Murder Mystery",
+            "time": "8:00 pm \\- 8:30 pm",
+            "floor": "1",
+            "location": "Taj Ma\u2019Jeff",
+            "hosted_by": "Kat",
+            "description": "You are a level one adventurer attending school to prepare you for the outside world. During class one day the lights go out, and when they come back on, your professor is dead at your feet. Can you solve whodunnit?"
+        },
+        {
+            "panel_name": "PowerPoint Karaoke",
+            "time": "8:30 pm \\- 9:00 pm",
+            "floor": "3",
+            "location": "Delta Sky Lounge",
+            "hosted_by": "Rob",
+            "description": "Seeking brave (or at least confident) volunteers to present an impromptu PowerPoint. We've even made the slides for you\\! All you need to do is pretend to know what they mean. Sign up in the event thread, first-come-first-serve."
+        },
+        {
+            "panel_name": "Tier Maker Night Court",
+            "time": "9:00 pm \\- 10:00 pm",
+            "floor": "3",
+            "location": "Delta Sky Lounge",
+            "hosted_by": "Tim",
+            "description": "I finally watched an episode of the sitcom Night Court and it sucks. Join us for oral arguments and participate in ranking society's racier topics."
+        },
+        {
+            "panel_name": "Retro Game Randomizer 2025",
+            "time": "10:00 pm \\- 12:00 am",
+            "floor": "3",
+            "location": "Delta Sky Lounge",
+            "hosted_by": "Jesse",
+            "description": "Another year of questionable games and questionable control schemes. Come and participate in a single elimination tournament against your peers for old school arcade games\\!"
+        },
+        {
+            "panel_name": "2nd Annual GACK Record Pull",
+            "time": "12:00 am \\- 1:00 am",
+            "floor": "3",
+            "location": "Delta Sky Lounge",
+            "hosted_by": "Rob",
+            "description": "Need to chill and listen to music? Enjoy a selection of your attendees favorite songs. Prior to the event, send SexLethal up to 3 songs that speak to you (no requirements, no questions asked) via the Google Form on the event thread. We'll share a random selection without context."
+        },
+        {
+            "panel_name": "Frat Games",
+            "time": "12:00 am \\- 2:00 am",
+            "floor": "2",
+            "location": "Hudsonham Palace",
+            "hosted_by": "Kat",
+            "description": "Come help us kill the keg\\! There will be beer pong\\! There will be chandelier\\! There will be a flip cup tournament\\! All skill levels are welcome \\- we love games and we love to teach them. (all games can be played with no alcohol, for any reason)"
+        }
+    ],
+    "sunday": [
+        {
+            "panel_name": "Panel Name: Tier Maker Court",
+            "time": "1:00 pm \\- 2:00 pm",
+            "floor": "3",
+            "location": "Delta Sky Lounge",
+            "hosted_by": "Tim",
+            "description": "New year new court. Join us for oral arguments and participate in ranking society's most important topics."
+        },
+        {
+            "panel_name": "A Spoiler Free Guide to Twin Cities Escape Rooms",
+            "time": "2:00 pm \\- 3:00 pm",
+            "floor": "3",
+            "location": "Delta Sky Lounge",
+            "hosted_by": "Kat",
+            "description": "Escape rooms are not all created equal, and have a variety of pros and cons. Come learn about different companies around the cities and what avenues they excel at."
+        },
+        {
+            "panel_name": "Ecology of DeviantArt",
+            "time": "3:00 pm \\- 4:00 pm",
+            "floor": "3",
+            "location": "Delta Sky Lounge",
+            "hosted_by": "Rob",
+            "description": "This BBC-supported lecture is an epic, 1-part series on the elusive biosphere that is DeviantArt. Presented in stunning 4K (at times), and hosted live by a David Attenborough impersonator."
+        },
+        {
+            "panel_name": "Let\u2019s Play Steve Jackson\u2019s Sorcery",
+            "time": "4:00 pm \\- 4:30 pm",
+            "floor": "3",
+            "location": "Delta Sky Lounge",
+            "hosted_by": "Kat",
+            "description": "Come help make decisions in this classic Choose Your Own Adventure style book from the 80s. Your search for the legendary Crown of Kings takes you to the Shamutanti Hills. Alive with evil creatures, lawless wanderers and bloodthirsty monsters, the land is riddled with tricks and traps waiting for the unwary traveller. Will you be able to cross the hills safely and proceed to the second part of the adventure \u2013 or will you perish in the attempt?"
+        },
+        {
+            "panel_name": "Breaking News: No Laughing Teleprompter",
+            "time": "4:30 pm \\- 5:00 pm",
+            "floor": "3",
+            "location": "Delta Sky Lounge",
+            "hosted_by": "Gweir",
+            "description": "Our reporters don't know what's about to be on the teleprompter, and every time they laugh they lose points. (Homemade version of the Dropout TV show)"
+        },
+        {
+            "panel_name": "Truth or Truth or Bath: an Oral History",
+            "time": "6:00 pm \\- 7:00 pm",
+            "floor": "3",
+            "location": "Delta Sky Lounge",
+            "hosted_by": "Emma and Kat",
+            "description": "Imagine: your night is winding down and party guests begin to gather in a circle and ask each other.....Truth or....Truth...or Bath? If this ritual leaves you with more questions than answers, join Drs. Emma Flood and Kat Ramage, professors of Bathematics, for a probably-true telling of the origins of our beloved end-of-the-party game."
+        },
+        {
+            "panel_name": "Scary Stories to Share in the Dark",
+            "time": "7:00 pm \\- 8:00 pm",
+            "floor": "3",
+            "location": "Delta Sky Lounge",
+            "hosted_by": "Rob",
+            "description": "Horror flash fiction contest, \u00e0 la spooky YouTube channels. Stories should be 1\\) about any horror topic \\- ghosts, demons, cryptids, serial killers, aliens, bad dates \\- and 2\\) less than 500 words. See further submission details in the Discord thread. Stories will be read 'live' and scored by a panel of judges."
+        },
+        {
+            "panel_name": "GACKcon Feedback Panel",
+            "time": "8:00 pm \\- 9:00 pm",
+            "floor": "3",
+            "location": "Delta Sky Lounge",
+            "hosted_by": "GACK",
+            "description": "How do you think the convention went? Come tell us\\! We use your feedback to see what works well, and what needs to be changed for next year. Be the change you wish to see and all that\u2026"
+        }
+    ]
+}

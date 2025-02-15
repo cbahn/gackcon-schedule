@@ -41,14 +41,6 @@
             "description": "One person has Lego directions, the other has the Blocks. Do they vibe? Or do they DIE?"
         },
         {
-            "panel_name": "Let\u2019s Play Steve Jackson\u2019s Sorcery",
-            "time": "4:00 pm \\- 4:30 pm",
-            "floor": "3",
-            "location": "Delta Sky Lounge",
-            "hosted_by": "Kat",
-            "description": "Come help make decisions in this classic Choose Your Own Adventure style book from the 80s. Your search for the legendary Crown of Kings takes you to the Shamutanti Hills. Alive with evil creatures, lawless wanderers and bloodthirsty monsters, the land is riddled with tricks and traps waiting for the unwary traveller. Will you be able to cross the hills safely and proceed to the second part of the adventure \u2013 or will you perish in the attempt?"
-        },
-        {
             "panel_name": "BAMily Feud",
             "time": "4:00 pm \\- 5:00 pm",
             "floor": "3",
@@ -147,12 +139,12 @@
             "description": "Despite the thousands of existing reality shows they are still inventing new ones. Come learn about 16 brand new shows that came out in 2024 and what fun twists they have on the genre."
         },
         {
-            "panel_name": "Puzzle Setting 101",
+            "panel_name": "Let\u2019s Play Steve Jackson\u2019s Sorcery",
             "time": "1:00 pm \\- 2:00 pm",
             "floor": "3",
             "location": "Delta Sky Lounge",
-            "hosted_by": "Alexi",
-            "description": "Sudoku is just one of an entire family of visual logic puzzles. We'll look at examples of a few different types, discuss strategies for creating engaging puzzles, and do some puzzle setting\\!"
+            "hosted_by": "Kat",
+            "description": "Come help make decisions in this classic Choose Your Own Adventure style book from the 80s. Your search for the legendary Crown of Kings takes you to the Shamutanti Hills. Alive with evil creatures, lawless wanderers and bloodthirsty monsters, the land is riddled with tricks and traps waiting for the unwary traveller. Will you be able to cross the hills safely and proceed to the second part of the adventure \u2013 or will you perish in the attempt?"
         },
         {
             "panel_name": "Narrowing Down to the Ultimate 151 Pokemon",
